@@ -16,7 +16,7 @@ class Employee(BaseModel):
 # Home Route
 @app.get("/")
 def home():
-    return {"message": "Salary Prediction API Running SSSS"}   
+    return {"message": "Salary Prediction API Running GGGG"}   
 
 # Prediction Route
 @app.post("/predict")
